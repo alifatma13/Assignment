@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LandmarkAssignment</string>
+    <string name="product_image">product image</string>
+    <string name="SAR">SAR</string>
+    <string name="INR">INR</string>
+    <string name="AED">AED</string>
+    <string name="loading_please_wait">Loading please wait..</string>
+    <string name="AEDtoSAR">AEDtoSAR</string>
+    <string name="AEDtoINR">AEDtoINR</string>
+    <string name="SARtoINR">SARtoINR</string>
+    <string name="INRtoAED">INRtoAED</string>
+    <string name="SARtoAED">SARtoAED</string>
+    <string name="INRtoSAR">INRtoSAR</string>
+</resources>
